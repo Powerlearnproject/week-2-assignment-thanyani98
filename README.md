@@ -33,6 +33,7 @@ Based on the Expense Tracker table you designed in Week 1, which likely includes
 **1.1 Retrieving All Expenses:**
 
 Write an SQL query to retrieve all data points (columns) from the "Expenses" table.
+![Alt text](images/text1.png)
 
 **1.2 Specific Columns:** 
 
